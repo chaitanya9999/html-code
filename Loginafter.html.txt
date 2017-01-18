@@ -1,0 +1,55 @@
+<html>
+<title>Chaitanya Institutions.com</title>
+<h1><center>Chaitanya University</center></h1>
+    <hr>
+    
+    <form align="right" action="logout.html">
+         <input type = "submit" value = "Log Off">
+         </form>
+    <body>
+        
+       
+        <h2>Student Home:</h2> 
+   <img src = "http://3.bp.blogspot.com/-4DRGGs7qqGM/Uu-DF2VNnVI/AAAAAAAAADM/8EHOZBzdtHs/s1600/venkatesh_completes_silver_jubilee_photos_1008111211_0069.jpg" style =" width:304px; height:328px;"> 
+    
+        <h4>Name: Venkatesh</h4>
+        <h4>Phone number: 510-6747-613</h4>
+        <h4>Email: venkatesh@gmail.com</h4>
+        <h4>Program: MS.CS</h4>
+        
+        <hr>
+        <br><br>
+        <label><strong>Please Select your Academic year</strong></label>
+            <select>
+                <option>--Select One option--</option>
+            <option>Spring-2017option>
+            <option>Summer-2017</option>
+            <option>Fall-2017</option>
+                </select>
+        
+        
+        <br><br>
+        
+        <h3>Other Information:</h3>
+        
+        <p><strong>Information Center:</strong></p>
+        <p>CGPA: 3.54</p>
+        
+        <br><p><strong>Attendance Status:</strong></p>
+        <p>Persentage: 98.70%</p>
+        
+        
+        
+        
+        
+        <p>For faculty Information please refer below link</p>
+        <a href="faculty.html"> <ul><li>Faculty Details</li></ul></a>
+      
+      
+
+       
+            
+    </body>
+        
+    
+</html>
